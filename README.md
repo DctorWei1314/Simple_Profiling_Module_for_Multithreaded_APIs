@@ -32,4 +32,5 @@ TID 0x11d0 time spent in "dlmalloc": 0/1113 ms 0.0% 6x
 TID 0x12a4 time spent in "dlmalloc": 0/1000 ms 0.0% 20x
 TID 0xc14 time spent in "dlmalloc": 4/1011 ms 0.4% 3243x
  ```
- you are pleased to change the related "QueryPerformanceFrequency" windows API to Migrate to another environment
+ you are pleased to change the related "QueryPerformanceFrequency" windows API to Migrate to another environment.
+ or you can use the c++11 standard lib for a portable new one.
